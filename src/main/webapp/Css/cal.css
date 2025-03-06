@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+.widthi{
+    outline: none;
+   background-color:black;
+   border-top-width: 0px;
+   border-left-width: 0px;
+   border-right-width: 0px;
+    border-color: white;
+    color: white;
+}
+.widthi2{
+    background-color:black;
+   color:yellow;
+   border-color:black;;
+}
